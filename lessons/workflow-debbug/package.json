@@ -1,0 +1,16 @@
+{
+  "name": "workflow-debbug",
+  "version": "1.0.0",
+  "description": "Complete NodeJS Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Tiago Silva Nascimento",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
